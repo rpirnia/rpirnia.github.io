@@ -67,6 +67,8 @@ void cleanup(struct record ** start)
    *start = NULL;
 }
 ```
+*A cleanup function implemented in C*
+
 
 ### Future?
 This was my first major project in C. I spent hours upon hours writing pseudocode, typing the code, and testing it. I am proud of what I learned about pointers, dynamic memory, and C in the process!
