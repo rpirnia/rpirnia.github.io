@@ -17,7 +17,7 @@ I am new to Typescript, having primarily worked with languages like Java and C. 
 In my ICS 314: Software Engineering class, we have regular practice Workouts of the Day (WODs). Here is one of the WODs we worked on in groups recently. Imagine my surprise when I realized I did not need to add a return type for this function below. In C and Java, I always specified a return type. The flexibility of Typescript is intriguing, which leads me to believe it is a good language. I just need more practice with it. 
 
 <div class="text-center p-4">
-  <img width="1000px" src="../img/temp-converter.png" class="img-thumbnail mb-5" alt="A program that converts temperatures (Celcius to Farenheit and vice versa)" >
+  <img width="2000px" src="../img/temp-converter.png" class="img-thumbnail mb-5" alt="A program that converts temperatures (Celcius to Farenheit and vice versa)" >
 </div>
 
 ### How is Typescript different from other programming langugues I know?
