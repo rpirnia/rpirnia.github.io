@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Communication
-  - Technical skills
+  - Technical Skills
   - Teamwork
 ---
 
