@@ -11,7 +11,7 @@ labels:
 summary: "I created a bank database application entirely in C for ICS 212: Program Structures."
 ---
 
-```cpp
+```
 *******************************
    Bank database application
 *******************************
