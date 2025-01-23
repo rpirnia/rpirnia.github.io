@@ -8,7 +8,7 @@ published: true
 labels:
   - Java
   - Teaching
-summary: "I presented about Object-oriented programming to ICS 111: Intro to CS I students"
+summary: "I presented about Object-oriented programming to ICS 111: Intro to Computer Science I students."
 ---
 
 <div class="text-center p-4">
