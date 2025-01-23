@@ -7,7 +7,7 @@ date: 2024
 published: true
 labels:
   - C
-  - VIM
+  - Vim
 summary: "I created a bank database application entirely in C for ICS 212: Program Structures."
 ---
 
