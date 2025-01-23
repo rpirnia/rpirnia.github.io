@@ -12,9 +12,9 @@ summary: "I presented about Object-oriented programming to ICS 111: Intro to Com
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/introCS-2.png" class="img-thumbnail" alt="Inheritance slide" >
-    <img width="500px" src="../img/introCS-1.png" class="img-thumbnail" alt="Object-oriented programming slide" >
-  <img width="500px" src="../img/introCS-3.png" class="img-thumbnail" alt="Inheritance example slide" >
+  <img width="400px" src="../img/introCS-2.png" class="img-thumbnail" alt="Inheritance slide" >
+    <img width="400px" src="../img/introCS-1.png" class="img-thumbnail" alt="Object-oriented programming slide" >
+  <img width="400px" src="../img/introCS-3.png" class="img-thumbnail" alt="Inheritance example slide" >
 </div>
 
 *Above is a sample of my presentation*
