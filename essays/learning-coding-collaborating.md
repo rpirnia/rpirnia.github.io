@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Learning, coding, and collaborating"
+title: "Learning, Coding, and Collaborating"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-22
 published: true
