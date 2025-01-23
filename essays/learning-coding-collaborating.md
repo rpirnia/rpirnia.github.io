@@ -24,7 +24,7 @@ One skill I want to develop is my communication. I understand now that my workin
 
 ## Questions are part of the learning process
 
-I also want to cultivate the confidence to ask questions when I do not understand something. One software engineer I admire, Dave Farley, emphasizes this mindset: “It takes a certain amount of self-confidence to ask questions. The truth though is that the more that you know, the more that you know that you don’t know enough.”  This resonates with me because it shows that questions are not a sign of weakness but rather a chance for growth.
+I also want to cultivate the confidence to ask questions when I do not understand something. One software engineer I admire, Dave Farley, emphasizes this mindset: *“It takes a certain amount of self-confidence to ask questions. The truth though is that the more that you know, the more that you know that you don’t know enough.”*  This resonates with me because it shows that questions are not a sign of weakness but rather a chance for growth.
 
 ## Looking ahead
 
