@@ -12,9 +12,9 @@ summary: "I created these drawings using the shapes, lines, and curves features 
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/bird-drawing.png" class="img-thumbnail mb-5" alt="A drawing of a cute bird" >
-    <img width="500px" src="../img/cowcows-drawing.png" class="img-thumbnail mb-5" alt="A drawing o the phone booth at Cowcow's Tea" >
-  <img width="500px" src="../img/mcd-drawing.png" class="img-thumbnail" alt="A drawing of my favorite fast food order" >
+  <img width="350px" src="../img/bird-drawing.png" class="img-thumbnail" alt="A drawing of a cute bird" >
+    <img width="350px" src="../img/cowcows-drawing.png" class="img-thumbnail" alt="A drawing o the phone booth at Cowcow's Tea" >
+  <img width="350px" src="../img/mcd-drawing.png" class="img-thumbnail" alt="A drawing of my favorite fast food order" >
 </div>
 
 In my Ceramics class in high school, I was required to keep a notebook of illustrations. We used it to sketch projects, take notes, but also to draw based on a list of topics the teacher provided. For example, Topic #6 was a place outside my home so I chose to draw the telephone booth at Cowcow's Tea. It is actually quite far from my home but, hey, the prompt did not specify distance.
