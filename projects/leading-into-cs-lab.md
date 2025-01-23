@@ -17,9 +17,7 @@ summary: "I presented about Object-oriented programming to ICS 111: Intro to CS 
   <img width="300px" src="../img/introCS-3.png" class="img-thumbnail" alt="Inheritance example slide" >
 </div>
 
-<div style="width: 50%; margin: 0 auto;">
-    <em>Above is a sample of my presentation</em>
-</div>
+*Above is a sample of my presentation*
 
 
 As an Assistant Teaching Assistant (ATA), my main responsibilities included assisting students during class hours and office hours. For my final project, I led two ICS 111 labs. I did a presentation on Object-oriented programming (OOP) and explained the homework of the week.
