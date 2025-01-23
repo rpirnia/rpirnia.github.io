@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cowcows-drawing.png
 title: "Digital Art"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ summary: "I created these drawings using the shapes, lines, and curves features 
 
 <div class="text-center p-4">
   <img width="200px" src="../img/bird-drawing.png" class="img-thumbnail" >
-  <img width="200px" src="../img/mcd-drawing.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/mcd-drawing.png" class="img-thumbnail" >
   <img width="200px" src="../img/cowcows-drawing.png" class="img-thumbnail" >
 </div>
 
