@@ -21,7 +21,7 @@ In my ICS 314: Software Engineering class, we have regular practice Workouts of 
 </div>
 *A temperature converter (Celcius to Fahrenheit and vice versa) implemented in Typescript*
 
-### How is Typescript different from other programming langugues I know?
+### How is Typescript different from other programming languagues I know?
 I need to get used to the syntax of TypeScript, especially how variables and parameters are declared. For example, in TypeScript, I declare a variable with a syntax like this: `variableName: type`, which differs from what I’m used to in languages like Java and C. In those languages, I typically declare variables using `type variableName`. In TypeScript, using `let` and `const` for variable declarations is intuitive. If we want to reassign the value of a variable, we declare it using `let`. If we want the value to stay constant, we use `const`. Though this syntax feels a little unfamiliar, I know dedicating time to getting comfortable with Typescript will solve that. 
 
 ### The purpose of the WODs
