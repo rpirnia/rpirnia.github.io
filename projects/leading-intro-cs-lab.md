@@ -20,7 +20,7 @@ summary: "I presented about Object-oriented programming to ICS 111: Intro to Com
 *Above is a sample of my presentation*
 
 
-As an Assistant Teaching Assistant (ATA), my main responsibilities included assisting students during class hours and office hours. For my final project, I led two ICS 111 labs. I did a presentation on Object-oriented programming (OOP) and explained the homework of the week.
+As an Assistant Teaching Assistant (ATA), my main responsibilities included assisting students during class hours and office hours. For my final project, I led two sessions of ICS 111 lab. I did a presentation on Object-oriented programming (OOP) and explained the homework of the week.
 
 I enjoyed this project because I got to review OOP and teach it to others. It was rewarding to ask checkpoint questions (e.g., name the subclasses and superclasses on the Inheritance Example slide) and recieve responses from students, showing that they are following along. 
 
