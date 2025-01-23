@@ -22,5 +22,5 @@ As an Assistant Teaching Assistant (ATA), my main responsibilities included assi
 
 I enjoyed this project because I got to review OOP and teach it to others. It was rewarding to ask checkpoint questions (e.g., name the subclasses and superclasses on the Inheritance Example slide) and recieve responses from students, showing that they are following along. 
 
-***Skills for the future!
+###Skills for the future!
 This experience helped me improve my leadership and public-speaking skills, which are valuable for my professional growth. 
