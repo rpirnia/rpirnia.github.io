@@ -16,7 +16,7 @@ I am interested in team-oriented development, project planning, and bringing ide
 
 ## Coding workouts for the win
 
-You might be wondering what WODs are. Well, let me tell you! The ICS 314: Software Engineering I class I am taking uses daily coding workouts to assess our understanding of the current module. Recently, we have been developing a professional persona and learning basic Typescript. Though it is worrying that performing poorly on the WOD can negatively impact our grade, I cannot hide that I am a little enthusiastic about testing my skills. 
+You might be wondering what WODs are. Well, let me tell you! The ICS 314: Software Engineering I class I am taking uses daily coding workouts to assess our understanding of the current module. Recently, we have been developing a professional persona and learning basic Typescript. Though it is worrying that performing poorly on the WOD can negatively impact my grade, I cannot hide that I am a little enthusiastic about testing my skills. 
 
 ## Communication, please!
 
