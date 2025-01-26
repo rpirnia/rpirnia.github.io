@@ -12,7 +12,7 @@
         <p class="lead m-0">
           Interests:
           {% for interest in site.data.bio.interests %}
-          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+          {{ interest.name}}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
         </p>
         <hr class="my-4">
