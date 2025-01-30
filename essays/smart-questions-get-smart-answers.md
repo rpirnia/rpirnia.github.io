@@ -22,7 +22,9 @@ Eric S. Raymond is the author of “How To Ask Questions The Smart Way,” an on
 <div class="text-center p-4">
   <img width="700px" src="../img/googlesearch.png" class="img-thumbnail" alt='Searching up "how to upgrade Tailwind CSS? v4" in Google'>
 </div>
-*Searching up "how to upgrade Tailwind CSS? v4" in Google on Jan. 29, 2025*
+<p style="text-align:center; font-style:italic;">
+  Searching up "how to upgrade Tailwind CSS? v4" in Google on Jan. 29, 2025
+</p>
 
 I can already see documentation from the official Tailwind CSS website and YouTube videos showing how to upgrade to Tailwind Version 4. Although the documentation does not have a date posted, the YouTube videos do. However, if you compare the date posted of the YouTube tutorials versus the Stack Overflow question, the Stack Overflow question was asked first. In other words, since the question was posed before any answers were available online, it is a smart question. 
 
