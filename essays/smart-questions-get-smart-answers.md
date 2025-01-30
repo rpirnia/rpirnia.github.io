@@ -25,7 +25,7 @@ Eric S. Raymond is the author of “How To Ask Questions The Smart Way,” an on
 
 I can already see documentation from the official Tailwind CSS website and YouTube videos showing how to upgrade to Tailwind Version 4. Although the documentation does not have a date posted, the YouTube videos do. However, if you compare the date posted of the YouTube tutorials versus the Stack Overflow question, the Stack Overflow question was asked first. In other words, since the question was posed before any answers were available online, it is a smart question. 
 
-## This question could use some improvement!
+## This question could use some improvement
 
 The ["non-smart" question](https://stackoverflow.com/questions/79380519/how-to-upgrade-tailwindcss/79387565#79387565) I chose is buried in the response section of the “smart” question. It has no title or tags. The asking developer included a code snippet and link to the documentation he referred to, but the question is hard to find. What good is asking a question in a loud, crowded room? The only person who will hear you is yourself. Make sure to post your question somewhere visible. 
 
