@@ -20,8 +20,9 @@ First up is the [“smart” question](https://stackoverflow.com/questions/79380
 Eric S. Raymond is the author of “How To Ask Questions The Smart Way,” an online tutorial on asking questions that get helpful responses. Raymond suggests that before asking a question on Stack Overflow, you should search for an answer on the Web. Here is a similar question I searched on Google. 
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/googlesearch.png" class="img-thumbnail" alt='Searching up "Tailwind CSS V4" in Google'>
+  <img width="700px" src="../img/googlesearch.png" class="img-thumbnail" alt='Searching up "how to upgrade Tailwind CSS? v4" in Google'>
 </div>
+*Searching up "how to upgrade Tailwind CSS? v4" in Google on Jan. 29, 2025*
 
 I can already see documentation from the official Tailwind CSS website and YouTube videos showing how to upgrade to Tailwind Version 4. Although the documentation does not have a date posted, the YouTube videos do. However, if you compare the date posted of the YouTube tutorials versus the Stack Overflow question, the Stack Overflow question was asked first. In other words, since the question was posed before any answers were available online, it is a smart question. 
 
