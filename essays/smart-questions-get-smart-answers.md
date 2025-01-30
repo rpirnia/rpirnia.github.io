@@ -9,7 +9,7 @@ labels:
   - Stack Overflow
 ---
 
-As I search for a smart question on Stack Overflow, I remind myself of the format of a smart email. Write your question and be courteous. In an email, students introduce themselves by sharing their lecture period and class name. This helps the professor narrow a problem to a specific lecture. On the other hand, Stack Overflow users are not obliged to introduce themselves. Different formalities exist when asking questions on online forums. Let us dive into it. 
+As I search for a smart question on Stack Overflow, I remind myself of the format of a smart email. Write your question and be courteous. In an email, students introduce themselves by sharing their lecture period and class name. This helps the professor narrow a concern to a specific lecture. On the other hand, Stack Overflow users are not obliged to introduce themselves. Different formalities exist when asking questions on online forums. Let us dive into it. 
 
 ## Outstanding question!
 
