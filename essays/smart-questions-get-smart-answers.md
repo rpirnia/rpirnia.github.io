@@ -10,11 +10,10 @@ labels:
   - Stack Overflow
 ---
 
-<div>
-    <img width="600px" src="../img/stack_exchange.png" class="img-thumbnail" style="float: left;" alt="Logos of some of the Stack Exchange sites" >
+<div style="text-align: center;">
+    <img width="600px" src="../img/stack_exchange.png" class="img-thumbnail" alt="Logos of some of the Stack Exchange sites" >
+    <p>Welcome to the Stack Exchange, a collection of questions and answers sites on a variety of subjects.</p>
 </div>
-
-*Welcome to the Stack Exchange, a collection of questions and answers sites on a variety of subjects.*
 
 [Stack Overflow](https://stackoverflow.com/) is the go-to site for all programming questions. Seeking help on a coding problem that you cannot seem to wrap your head around? Well then, Stack Overflow is the place for you!
 
