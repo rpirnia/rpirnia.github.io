@@ -10,13 +10,13 @@ labels:
   - Stack Overflow
 ---
 
-<div class="text-center p-4">
+<div class="text-left p-4">
     <img width="600px" src="../img/stack_exchange.png" class="img-thumbnail" alt="Logos of some of the Stack Exchange sites" >
 </div>
 
 *Welcome to the Stack Exchange, a collection of questions and answers sites on a variety of subjects.*
 
-Stack Overflow is the go-to site for all programming questions. Seeking help on a coding problem that you cannot seem to wrap your head around? Well then, Stack Overflow is the place for you!
+[Stack Overflow](https://stackoverflow.com/) is the go-to site for all programming questions. Seeking help on a coding problem that you cannot seem to wrap your head around? Well then, Stack Overflow is the place for you!
 
 Before you venture off to Stack Overflow, we should go over the formalities of using online forums with some real examples! Here I have sourced a smart question and not-so-smart question from the site itself. 
 
@@ -26,7 +26,7 @@ First up is the [smart question](https://stackoverflow.com/questions/79380519/ho
 
 ## There's a tutorial for that? 
 
-Eric S. Raymond is the author of “How To Ask Questions The Smart Way,” an online tutorial on asking questions that get helpful responses. Raymond suggests that before asking a question on Stack Overflow, you should search for an answer on the Web. Here is a similar question I searched on Google. 
+Eric S. Raymond is the author of “How To Ask Questions The Smart Way,” an [online tutorial](http://www.catb.org/esr/faqs/smart-questions.html) on asking questions that get helpful responses. Raymond suggests that before asking a question on Stack Overflow, you should search for an answer on the Web. Here is a similar question I searched on Google. 
 
 <div class="text-center p-4">
   <img width="700px" src="../img/googlesearch.png" class="img-thumbnail" alt='Searching up "how to upgrade Tailwind CSS? v4" in Google'>
