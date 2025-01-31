@@ -6,14 +6,23 @@ title: "Smart Questions Get Smart Answers"
 date: 2025-01-29
 published: true
 labels:
+  - Stack Exchange
   - Stack Overflow
 ---
 
-As I search for a smart question on Stack Overflow, I remind myself of the format of a smart email. Write your question and be courteous. In an email, students introduce themselves by sharing their lecture period and class name. This helps the professor narrow a concern to a specific lecture. On the other hand, Stack Overflow users are not obliged to introduce themselves. Different formalities exist when asking questions on online forums. Let us dive into it. 
+<div class="text-center p-4">
+    <img width="600px" src="../img/stack_exchange.png" class="img-thumbnail" alt="Logos of some of the Stack Exchange sites" >
+</div>
+
+*Welcome to the Stack Exchange, a collection of questions and answers sites on a variety of subjects.*
+
+Stack Overflow is the go-to site for all programming questions. Seeking help on a coding problem that you cannot seem to wrap your head around? Well then, Stack Overflow is the place for you!
+
+Before you venture off to Stack Overflow, we should go over the formalities of using online forums with some real examples! Here I have sourced a smart question and not-so-smart question from the site itself. 
 
 ## Outstanding question!
 
-First up is the [“smart” question](https://stackoverflow.com/questions/79380519/how-to-upgrade-tailwindcss) I chose. The developer uses a clear title, shares a link to his project repository, states his problem, the exact error he is receiving, and how he tried to solve the issue. In addition, he tagged his post with related keywords: “angular” and “tailwind-css.” To top it off, he gave thanks in advance. Looking just at Stack Overflow, I would say this is an exemplary post. 
+First up is the [smart question](https://stackoverflow.com/questions/79380519/how-to-upgrade-tailwindcss) I chose: "How to upgrade Tailwindcss." The developer uses a clear title, shares a link to his project repository, states his problem, the exact error he is receiving, and how he tried to solve the issue. In addition, he tagged his post with related keywords: ```angular``` and ```tailwind-css```. To top it off, he gave thanks in advance. Looking just at Stack Overflow, I would say this is an exemplary post. 
 
 ## There's a tutorial for that? 
 
@@ -30,11 +39,7 @@ I can already see documentation from the official Tailwind CSS website and YouTu
 
 ## This question could use some improvement
 
-The ["non-smart" question](https://stackoverflow.com/questions/79380519/how-to-upgrade-tailwindcss/79387565#79387565) I chose is buried in the response section of the “smart” question. It has no title or tags. The asking developer included a code snippet and link to the documentation he referred to, but the question is hard to find. What good is asking a question in a loud, crowded room? The only person who will hear you is yourself. Make sure to post your question somewhere visible. 
-
-## Deciding where to ask a question
-
-Where, then, should you post your question? Yes, you should avoid asking your question in the response section of another question. However, how do you know what forum best suits your question? Stack Exchange has grown to have questions and answers on plenty of subjects. Programmers may be interested in these websites: Super User for computing questions, Stack Overflow for programming-related concerns, and Server Fault for discussions on server and network administration.
+The [non-smart question](https://stackoverflow.com/questions/68627208/how-to-read-the-first-letter-from-the-last-line-in-a-txt-file-in-python) I chose is titled: "How to read the first letter from the last line in a txt file in python." The asking developer uses one tag: ```python```. He acknowledges that his question is confusing but does not provide additional material to support his prompt (e.g., example output or code snippets). Thankfully, he received answers from multiple users, but in future posts, he should consider adding more information to receive quicker, accurate responses. 
 
 ## That's a wrap!
-In conclusion, before asking a question, research it yourself. Explore: search the Web, read manuals, or ask a skilled friend. If you still do not know the answer, find an online forum related to your question. Use a clear title, describe your problem and your handling process (this prevents respondents from making similar mistakes), and be kind! Knowing how to phrase your questions clearly, respectfully, and in the right place is crucial for software engineers who are always learning new languages, programs, and skills.
+In conclusion, before asking a question, research it yourself. Explore: search the Web, read manuals, or ask a skilled friend. If you still do not know the answer, find an online forum related to your question. Programmers may be interested in these websites: Super User for computing questions, Server Fault for discussions on server and network administration, and Stack Overflow for programming-related concerns. In your post, use a clear title, describe your problem and your handling process (this prevents respondents from making similar mistakes), and be kind! Knowing how to phrase your questions clearly, respectfully, and in the right place is crucial for software engineers who are always learning new languages, programs, and skills.
