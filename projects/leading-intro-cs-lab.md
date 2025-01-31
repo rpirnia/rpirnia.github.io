@@ -12,9 +12,8 @@ summary: "I presented about Object-oriented programming to ICS 111: Intro to Com
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/introCS-2.png" class="img-thumbnail" alt="Inheritance slide" >
-    <img width="400px" src="../img/introCS-1.png" class="img-thumbnail" alt="Object-oriented programming slide" >
-  <img width="400px" src="../img/introCS-3.png" class="img-thumbnail" alt="Inheritance example slide" >
+    <img width="600px" src="../img/introCS-1.png" class="img-thumbnail" alt="Object-oriented programming slide" >
+
 </div>
 
 *Above is a sample of my presentation*
@@ -26,3 +25,5 @@ I enjoyed this project because I got to review OOP and teach it to others. It wa
 
 ### Essential skills for the future
 This experience helped me improve my leadership and public-speaking skills, which are valuable for my professional growth. 
+
+[Here](https://www.canva.com/design/DAGdvvi9qq0/h9ytve19jVkOG1TNsWBhIg/edit?utm_content=DAGdvvi9qq0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) is a Canva link to my presentation.
