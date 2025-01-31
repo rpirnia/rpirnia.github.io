@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img width="600px" src="../img/stack_exchange.png" class="img-thumbnail" alt="Logos of some of the Stack Exchange sites" >
+    <img width="700px" src="../img/stack_exchange.png" class="img-thumbnail" alt="Logos of some of the Stack Exchange sites" >
     <p style="font-style: italic;">Welcome to the Stack Exchange, a collection of questions and answers sites on a variety of subjects.</p>
 </div>
 
