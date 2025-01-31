@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/teaching.png
+image: img/teacher.png
 title: "Leading an Intro to CS Lab"
 date: 2024
 published: true
