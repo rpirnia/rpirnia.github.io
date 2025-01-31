@@ -10,8 +10,8 @@ labels:
   - Stack Overflow
 ---
 
-<div class="text-left p-4">
-    <img width="600px" src="../img/stack_exchange.png" class="img-thumbnail" alt="Logos of some of the Stack Exchange sites" >
+<div>
+    <img width="600px" src="../img/stack_exchange.png" class="img-thumbnail" style="float: left;" alt="Logos of some of the Stack Exchange sites" >
 </div>
 
 *Welcome to the Stack Exchange, a collection of questions and answers sites on a variety of subjects.*
