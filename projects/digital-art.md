@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cowcows-drawing.png
+image: img/painting.png
 title: "Digital Art"
 date: 2022
 published: true
