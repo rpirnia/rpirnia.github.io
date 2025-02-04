@@ -33,7 +33,7 @@ This application uses a linked list to sort bank records. When you create a reco
 ### Cleanup function
 When the user chooses to quit the program, the cleanup function is called. cleanup() frees heap memory that was dynamically allocated while the program ran. This is essential, as it prevents memory leaks and dangling pointers. 
 
-Let's say you added two records and then quit the program. Even though you exit the program, the records will remain sorted and accessible when you run the program again. cleanup() ensures proper memory management each time the user runs the program. 
+Let's say you added two records and then quit the program. Even though you exited the program, the records will remain sorted and accessible when you run the program again. cleanup() ensures proper memory management each time the user runs the program. 
 
 **How does cleanup() work?** cleanup() takes the pointer to the head of the linked list, also known as the first element in the list, and traverses through the list freeing memory until it reaches the end of the list. 
 
