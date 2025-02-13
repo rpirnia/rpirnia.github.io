@@ -25,8 +25,6 @@ The Software Engineering course I am taking advised us to install ESLint, a tool
 
 As you can see, there is a lot to fix in this program. The developer needs to fix their variable declarations, change the types of quotes they are using, and remove repeated elements. Error checking extensions like ESLint may come off as a strict professor who never ceases to find mistakes in your essay. These red suggestions might seem like a hassle, but once you correct them, your code improves and the errors go away. 
 
-<img width="300px" class="img-thumbnail" src="../img/codequote.png">
-
 ## Are there any benefits to adopting code standards?
 
 I think error checkers are helpful. It keeps the code style consistent. This enhances the readability of code so that you or anyone that looks at your code can understand what is going on. 
