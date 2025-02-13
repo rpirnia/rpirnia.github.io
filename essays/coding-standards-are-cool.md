@@ -27,13 +27,13 @@ As you can see, there is a lot to fix in this program. The developer needs to fi
 
 ## Are there any benefits to adopting code standards?
 
-I think error checkers are helpful. It keeps the code style consistent. This enhances the readability of code so that you or anyone that looks at your code can understand what is going on. 
+*If more than one developer is working on a single project, how can we guarantee consistency? Coding style!*
 
-I would say adding comments to your code is the best way to be certain of your comprehension. Most workplaces utilize header comments, which are placed right before a function to explain what it does. Comments too, contribute to a good coding style.
+Error checkers are helpful. They keep the code style consistent. This enhances the readability of code so that you or anyone that looks at your code can understand what is going on. 
 
-If more than one developer is working on a single project, how can we guarantee consistency? Coding style! 
+Adding comments to your code is another great way to be certain of your comprehension. Most workplaces utilize header comments, which are placed right before a function to explain what it does. Comments too, contribute to a good coding style.
 
-New developers read any provided documentation about the project. However, they also read and test out the code themselves. Understanding how functions interact and contribute to the larger project is hard enough. Not keeping the same syntax and style makes it more difficult. It is like reading a book that changes word choice about a quarter of the way through. It is readable but will take a longer time and greater effort to understand it. 
+New developers read any provided documentation about the project they are joining. However, they also read and test out the code themselves. Understanding how functions interact and contribute to the larger project is hard enough. Not keeping the same syntax and style makes it more difficult. It is like reading a book that changes word choice about a quarter of the way through. It is readable but will take a longer time and greater effort to understand it. 
 
 Moreover, varying styling may increase the chances of bugs, which are unintended errors, in the code. 
 
