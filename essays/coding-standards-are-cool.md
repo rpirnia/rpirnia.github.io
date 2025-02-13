@@ -23,13 +23,13 @@ The Software Engineering course I am taking advised us to install ESLint, a tool
 
 *A developer using ESLint to reduce bugs and strengthen code clairty*
 
-As you can see, there is a lot to fix in this program. The developer needs to fix their variable declarations, change the types of quotes they are using, and remove repeated elements. Error checking extensions like ESLint may come off as a strict professor who never ceases to find mistakes in your essay. These red suggestions might seem like a hassle, but once you correct them, your code improves and the errors go away. 
+As you can see, there is a lot to fix in this program. The developer needs to fix their variable declarations, change the types of quotes they are using, and remove repeated elements. Error checking extensions like ESLint may come off as a strict English professor who never ceases to find mistakes in your essay. These red suggestions might seem like a hassle, but once you correct them, your code improves and the errors go away. 
 
 ## Are there any benefits to adopting code standards?
 
 *If more than one developer is working on a single project, how can we guarantee consistency? Coding style!*
 
-Error checkers are helpful. They keep the code style consistent. This enhances the readability of code so that you or anyone that looks at your code can understand what is going on. 
+Error checkers are helpful. They keep the code consistent. This enhances the readability of code so that you or anyone that looks at your code can understand what is going on. 
 
 Adding comments to your code is another great way to be certain of your comprehension. Most workplaces utilize header comments, which are placed right before a function to explain what it does. Comments too, contribute to a good coding style.
 
@@ -37,6 +37,6 @@ New developers read any provided documentation about the project they are joinin
 
 Moreover, varying styling may increase the chances of bugs, which are unintended errors, in the code. 
 
-So, to make things easier for all of us, we can commit a few moments of time to conforming to a specified code style. Looking toward the future, it is helpful to us and our team so why not put some extra effort into improving our styling skills? 
+So, to make things easier for all of us, we can commit a few moments to conforming to a specified code style. Looking toward the future, it is helpful to us and our team so why not put some extra effort into improving our styling skills? 
 
 <p style="text-align: center; font-size: 0.8em;"> Note: This essay was reviewed by ChatGPT for structure and grammar corrections.</p>
