@@ -9,7 +9,7 @@ labels:
   - ESLint
 ---
 
-<img width="600px" text-align="center" class="rounded float-start pe-4" src="img/code_style.jpg">
+<img width="600px" text-align="center" class="rounded float-start pe-4" src="../img/code_style.jpg">
 
 Life has tons of rules. Before practicing a rule, you need to see why it is worth your attention. 
 
@@ -19,13 +19,13 @@ Coding standards are important because they teach programmers how to code. Just 
 
 The Software Engineering course I am taking in advised us to install ESLint, a tool that checks code quality. Here is an example of ESLint in action (view the red suggestions). 
 
-<img width="800px" text-align="center" class="rounded float-start pe-4" src="img/eslint.png">
+<img width="800px" text-align="center" class="rounded float-start pe-4" src="../img/eslint.png">
 
 *A developer using ESLint to reduce bugs and strengthen code clairty*
 
 As you can see, there is a lot to fix in this program. The developer needs to fix their variable declarations, change the types of quotes they are using, and remove repeated elements. Error checking extensions like ESLint may come off as a strict professor who never ceases to find mistakes in your essay. These red suggestions might seem like a hassle, but once you correct them, your code improves and the errors go away. 
 
-<img width="300px" class="rounded float-start pe-4" src="img/codequote.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/codequote.png">
 
 ## Are there any benefits to adopting code standards?
 
