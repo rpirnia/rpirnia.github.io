@@ -37,6 +37,6 @@ New developers read any provided documentation about the project they are joinin
 
 Moreover, varying styling may increase the chances of bugs, which are unintended errors, in the code. 
 
-So, to make things easier for all of us, we can commit a few moments to conforming to a specified code style. Looking toward the future, it is helpful to us and our team so why not put some extra effort into improving our styling skills? 
+So, to make things easier for all of us, we can commit a few moments to conforming to a specified code style. Looking toward the future, it is helpful to us and our team so why not put some extra effort into refining our styling skills? 
 
 <p style="text-align: center; font-size: 0.8em;"> Note: This essay was reviewed by ChatGPT for structure and grammar corrections.</p>
