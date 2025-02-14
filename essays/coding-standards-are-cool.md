@@ -31,12 +31,12 @@ As you can see, there is a lot to fix in this program. The developer needs to fi
 
 Error checkers are helpful. They keep the code consistent. This enhances the readability of code so that you or anyone that looks at your code can understand what is going on. 
 
-Adding comments to your code is another great way to be certain of your comprehension. Most workplaces utilize header comments, which are placed right before a function to explain what it does. Comments too, contribute to a good coding style.
+Adding comments to your code is another great way to be certain of your comprehension. Most workplaces utilize header comments, which are placed right before a function to explain what it does. Comments too, contribute to a healthy project.
 
-New developers read any provided documentation about the project they are joining. However, they also read and test out the code themselves. Understanding how functions interact and contribute to the larger project is hard enough. Not keeping the same syntax and style makes it more difficult. It is like reading a book that changes word choice about a quarter of the way through. It is readable but will take a longer time and greater effort to understand it. 
+New developers read any provided documentation about the responsibilities they are taking on. However, they also read and test out the code themselves. Understanding how functions interact and contribute to the larger project is hard enough. Not keeping the same syntax and style makes it more troublesome. It is like reading a book that changes word choice about a quarter of the way through. It is readable but will take a longer time and greater effort to understand it. 
 
-Moreover, varying styling may increase the chances of bugs, which are unintended errors, in the code. 
+Moreover, varying standards may increase the chances of bugs, which are unintended errors, in the code. 
 
-So, to make things easier for all of us, we can commit a few moments to conforming to a specified code style. Looking toward the future, it is helpful to us and our team so why not put some extra effort into refining our styling skills? 
+So, to make things easier for all of us, we can commit a few moments to conforming to the same coding standards. Looking toward the future, it is helpful to us and our team so why not put some extra effort into refining our styling skills? 
 
 <p style="text-align: center; font-size: 0.8em;"> Note: This essay was reviewed by ChatGPT for structure and grammar corrections.</p>
