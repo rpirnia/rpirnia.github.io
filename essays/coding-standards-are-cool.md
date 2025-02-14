@@ -33,7 +33,7 @@ Error checkers are helpful. They keep the code consistent. This enhances the rea
 
 Adding comments to your code is another great way to be certain of your comprehension. Most workplaces utilize header comments, which are placed right before a function to explain what it does. Comments too, contribute to a healthy project.
 
-New developers read any provided documentation about the responsibilities they are taking on. However, they also read and test out the code themselves. Understanding how functions interact and contribute to the larger project is hard enough. Not keeping the same syntax and style makes it more troublesome. It is like reading a book that changes word choice about a quarter of the way through. It is readable but will take a longer time and greater effort to understand it. 
+New developers read any provided documentation about the responsibilities they are taking on. However, they also read and test out the code themselves. Understanding how functions interact and play a role in the larger project is hard enough. Not keeping the same syntax and style makes it more troublesome. It is like reading a book that changes word choice about a quarter of the way through. It is readable but will take a longer time and greater effort to understand it. 
 
 Moreover, varying standards may increase the chances of bugs, which are unintended errors, in the code. 
 
