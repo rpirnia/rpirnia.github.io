@@ -13,7 +13,7 @@ labels:
 I had a great experience at the Tech Minds Meetup hosted by the Pacific Asian Center for Entrepreneurship (PACE). More than 40 software engineers attended the event to share their stories, insights, and advice. I had the wonderful opportunity to talk with engineers Brody Uehara and Kristian Lazo. 
 
 ## Brody Uehara
-Brody is a software engineer at  <a href="https://www.kwhanalytics.com" target="_blank"></a>kWh Analytics, a startup that provides data-driven insurance for the renewable energy industry. Brody works remotely. He lives here but the startup is based in San Francisco, California. A typical day consists of data systems work and team meetings. Here, we took a picture together (I promise he knew the photo was being taken haha):
+Brody is a software engineer at  <a href="https://www.kwhanalytics.com" target="_blank"></a>kWh Analytics, a startup that provides data-driven insurance for the renewable energy industry. Brody works remotely. He lives here, but the startup is based in San Francisco, California. A typical day consists of data systems work and team meetings. Here is a picture we took together (I promise he knew the photo was being taken, haha):
 
 <img src="../img/techmindsmeetup.png" width=600px>
 
