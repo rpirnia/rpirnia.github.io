@@ -10,15 +10,15 @@ labels:
 ---
 
 
-I had a great experience at the Tech Minds Meetup hosted by the Pacific Asian Center for Entrepreneurship (PACE). More than 40 software engineers attended the event to share their stories, insights, and advice. I had the wonderful opportunity to talk with engineers Brody Uehara and Kristian Lazo. 
-
-## Brody Uehara
-Brody is a software engineer at  <a href="https://www.kwhanalytics.com" target="_blank"></a>kWh Analytics, a startup that provides data-driven insurance for the renewable energy industry. Brody works remotely. He lives here, but the startup is based in San Francisco, California. A typical day consists of data systems work and team meetings. Here is a picture we took together (I promise he knew the photo was being taken, haha):
-
-<img src="../img/techmindsmeetup.png" width=600px>
+I had a great experience at the Tech Minds Meetup hosted by the Pacific Asian Center for Entrepreneurship (PACE). More than 40 software engineers attended the event to share their stories, insights, and advice. I had the wonderful opportunity to talk with engineers Kristian Lazo and Brody Uehara. 
 
 ## Kristian Lazo
-Kristian is a software engineer at <a href="https://www.volunteerally.org" target="_blank"></a>VolunteerAlly, a platform that helps volunteers find volunteering opportunities in Hawaiʻi. VolunteerAlly started as an idea for ICS 314: Software Engineering and has since become the ally organization it is today. When Kristian is not working, he enjoys spending time with friends and family or advancing his technical skills. 
+Kristian is a software engineer at [VolunteerAlly](https://www.volunteerally.org), a platform that helps volunteers find volunteering opportunities in Hawaiʻi. VolunteerAlly started as an idea for ICS 314: Software Engineering and has since become the ally organization it is today. When Kristian is not working, he enjoys spending time with friends and family or advancing his technical skills. 
+
+## Brody Uehara
+Brody is a software engineer at [kWh Analytics](https://www.kwhanalytics.com), a startup that provides data-driven insurance for the renewable energy industry. Brody works remotely. He lives here, but the startup is based in San Francisco, California. A typical day consists of data systems work and team meetings. Here is a picture we took together (I promise he knew the photo was being taken, haha):
+
+<img src="../img/techmindsmeetup.png" width=600px>
 
 ## I learned quite a lot!
 Both tech pros studied Computer Science (CS) at UH Mānoa. I am also a CS student at the same university, so our conversations were especially valuable.
