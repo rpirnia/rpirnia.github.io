@@ -3,10 +3,10 @@ layout: essay
 type: essay
 title: "Talking With Tech Minds"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2025-02-15
+published: true
 labels:
-  - Engineering
+  - Tech Minds Meetup
 ---
 
 
