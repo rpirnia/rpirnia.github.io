@@ -18,7 +18,7 @@ Kristian is a software engineer at [VolunteerAlly](https://www.volunteerally.org
 ## Brody Uehara
 Brody is a software engineer at [kWh Analytics](https://www.kwhanalytics.com), a startup that provides data-driven insurance for the renewable energy industry. Brody works remotely. He lives here, but the startup is based in San Francisco, California. A typical day consists of data systems work and team meetings. Here is a picture we took together (I promise he knew the photo was being taken, haha):
 
-<img src="../img/techmindsmeetup.png" width=600px>
+<img src="../img/techmindsmeetup.png" width=450px>
 
 ## I learned quite a lot!
 Both tech pros studied Computer Science (CS) at UH Mānoa. I am also a CS student at the same university, so our conversations were especially valuable.
