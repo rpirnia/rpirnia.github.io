@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Get in Reader, We're Learning Bootstrap!"
+title: "Get in Reader, We're Learning Bootstrap 5!"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
 labels:
-  - Bootstrap
+  - Bootstrap 5
   - UI Frameworks
 ---
 
