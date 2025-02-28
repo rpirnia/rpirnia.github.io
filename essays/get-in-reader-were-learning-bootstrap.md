@@ -22,9 +22,10 @@ It is one thing to code but another to understand your code. Being able to expla
 
 UI frameworks are meant to make designing more manageable and faster. With just a couple of lines of code added to your project, you can get access to Bootstrap styles, components, and icons. 
 
-<img src="../img/withoutbootstrap.png" width=450px>
 <img src="../img/withbootstrap.png" width=450px>
-Here is a picture of a website I made that does not use Bootstrap 5 vs. one that uses Bootstrap 5.
+<img src="../img/withoutbootstrap.png" width=450px>
+<br>
+*The website on the left uses Bootstrap and the website on the right does not.*
 
 ## Final thoughts
 The website built with Bootstrap looks much cleaner if you ask me. Also, the number of lines of code I needed to write was much less since the classes already provided the basic structure. The issue is knowing how to apply and combine the classes to create the desired designs. So, I will try my best to learn more about Bootstrap 5 as I will any other UI framework or toolset I encounter in the future. I am excited about learning Bootstrap 5!
