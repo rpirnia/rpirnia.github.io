@@ -20,12 +20,12 @@ This week, we used Bootstrap 5, a popular UI framework, to create websites such 
 
 It is one thing to code but another to understand your code. Being able to explain it, replicate it without needing to constantly reference past work, and know the classes available to me are key. I do see myself struggling against a steep learning curve due to the vastness of the code UI frameworks contain. Despite this, I will try my best to overcome all challenges. 
 
-UI frameworks are meant to make designing more manageable and faster. With just a couple of lines of code added to your project, you can get access to Bootstrap styles, components, and icons. 
+UI frameworks are meant to make designing more manageable and faster. With just a couple of lines of code added to your project, you can get access to Bootstrap styles, components, and icons. Check out Bootstrap icons [here.](https://icons.getbootstrap.com/) Do any of the icons look familiar? Haha. 
+
+# Would I recommend Bootstrap 5? Of course!
+Here are two websites I made to show the greatness of UI frameworks. The left website uses Bootstrap while the other website does not use any UI frameworks. 
 
 <img src="../img/withbootstrap.png" width=450px>
 <img src="../img/withoutbootstrap.png" width=450px>
 <br>
-*The website on the left uses Bootstrap and the website on the right does not.*
-
-## Final thoughts
 The website built with Bootstrap looks much cleaner if you ask me. Also, the number of lines of code I needed to write was much less since the classes already provided the basic structure. The issue is knowing how to apply and combine the classes to create the desired designs. So, I will try my best to learn more about Bootstrap 5 as I will any other UI framework or toolset I encounter in the future. I am excited about learning Bootstrap 5!
