@@ -28,4 +28,4 @@ Here are two websites I made to show the greatness of UI frameworks. The left we
 <img src="../img/withbootstrap.png" width=450px>
 <img src="../img/withoutbootstrap.png" width=450px>
 <br> <br>
-The website built with Bootstrap looks much cleaner if you ask me. Also, the number of lines of code I needed to write was much less since the classes already provided the basic structure. The issue is knowing how to apply and combine the classes to create the desired designs. So, I will try my best to learn more about Bootstrap 5 as I will any other UI framework or toolset I encounter in the future. I am excited about learning Bootstrap 5!
+The website built with Bootstrap looks much cleaner if you ask me. Also, the number of lines of code I needed to write was much less since the classes already provided the basic structure. The issue is knowing how to apply and combine the classes to create the desired designs. So, I will try my best to learn more about Bootstrap 5 as I will any other UI framework or toolset I encounter in the future. I am excited to learn more about Bootstrap 5!
