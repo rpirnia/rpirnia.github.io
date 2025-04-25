@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Pattern Powered!"
 # All dates must be YYYY-MM-DD format!
-date: 2025-24-04
+date: 2025-04-24
 published: true
 labels:
   - Design Patterns
