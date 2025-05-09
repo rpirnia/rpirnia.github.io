@@ -15,7 +15,7 @@ labels:
 You may consider Artificial Intelligence (AI) a product of Software Engineering. A causal relationship exists even where software engineers have developed AI. Except, now AI can also engineer solutions to common and complex software problems. In ICS 314, I made use of AI tools, specifically ChatGPT.
 
 ## II. My Personal Experience with AI in ICS 314
-**Experience WODs e.g. E18:** I used AI for the Experience WODs. For example, I used ChatGPT to help me debug my code for E18: Experience Functional Programming. However, for most of the Experience WODs later on, I felt it was important to work through a solution myself. I could always watch the demonstration after my first attempt and retry using a new, gained understanding. 
+**Experience WODs:** I used AI for the Experience WODs. For example, I used ChatGPT to help me debug my code for E18: Experience Functional Programming. However, for most of the Experience WODs later on, I felt it was important to work through a solution myself. I could always watch the demonstration after my first attempt and retry using a new, gained understanding. 
 
 **In-class Practice WODs:** I rarely use AI for the Practice WODs. I felt it was important for me to work through a solution myself. I intended to develop good coding habits that I could use in the in-class WODS. 
 
