@@ -31,5 +31,5 @@ Likewise, tracking the actual effort expended on the issues is not a bad thing t
 
 I do not think there are any downsides to estimating and tracking effort. It takes under five minutes to write your estimates, and then after completing a ticket to log how much time you spent. My tracking is accurate, too. Like I mentioned earlier, making an time estimation makes you that much more aware of how you spend your time. So, I did not have trouble keeping track of how much time I actually spent on a ticket. In addition, tracking my effort did not inhibit me from working on the project.
 
-Anyway, I think effort estimation is useful, and I would consider doing some variation of effort estimation in future projects. *Maybe we could have found out how many licks it takes to reach the center of a Tootsie Pop if we did some effort estimation...*
+Anyway, I think effort estimation is useful, and I would consider doing some variation of effort estimation in future projects. *Maybe we could have found out earlier how many licks it takes to reach the center of a Tootsie Pop if we did some effort estimation...*
 
