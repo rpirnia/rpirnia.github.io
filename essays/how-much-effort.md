@@ -25,7 +25,7 @@ In addition to this system, we estimated our efforts on each ticket. The previou
 
 ## My Take on Effort Estimation
 
-I would say my efforts were often not on the mark, sometimes they were slightly off, and sometimes they were way off. I think effort estimations may help with time boxing. Say, I estimated that an issue might take an hour. However, an hour and a half had already passed since I started, and I ran into a bug (an error within the code that I just can’t seem to fix!). This might encourage me to call it a night and try again tomorrow with a more sound and less tense mind. 
+I would say my estimations were often not on the mark, sometimes they were slightly off, and sometimes they were way off. I think effort estimations may help with time boxing. Say, I estimated that an issue might take an hour. However, an hour and a half had already passed since I started, and I ran into a bug (an error within the code that I just can’t seem to fix!). This might encourage me to call it a night and try again tomorrow with a more sound and less tense mind. 
 
 Likewise, tracking the actual effort expended on the issues is not a bad thing to do. I mean, you’re already estimating how much time you’ll spend, might as well have something to compare it with. I liked that my team not only logged our actual coding effort and our non-coding effort because there is more to coding than simply typing out code. We also have to spend time researching, planning, and designing. 
 
