@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "How Much Effort?!?!"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2025-05-08
 published: true
 labels:
   - Effort Estimation
