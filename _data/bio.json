@@ -39,8 +39,21 @@
   ],
   "work": [
     {
+      "company": "UH Groupings",
+      "position": "Web App Developer",
+      "website": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Develop and optimize code on the backend and frontend of a user management system",
+      "highlights": [
+        "Experience with AngularJS, SpringBoot, Next.js, and other tools",
+        "Familiarity with the Git command line"
+        "Attend workshops on topics such as React components and RESTful API design"
+      ]
+    },
+    {
       "company": "University of Hawaii at Manoa",
-      "position": "Learning Assistant (Intern)",
+      "position": "Assistant Learning Assistant (ATA)",
       "website": "",
       "startDate": "2024",
       "endDate": "2024",
