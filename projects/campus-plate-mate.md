@@ -26,7 +26,7 @@ After signing up, our site has four main pages for users:
 - Profile: View your posts only
 - Rewards: Available rewards to redeem points from logging in, posting, or claiming
 
-We also have an Admin page that displays submitted user feedback.
+We also have an admin-only page that displays submitted user feedback.
 
 ## My Role
 My main responsibilities were creating the footer, the Rewards page, and updating the Admin page to show user feedback. The footer accepts user feedback and sends it to our PostgreSQL database. For the Admin page, it pulls each of those responses and displays it in a visually-appealing manner. I also added a date to each feedback, as some may be outdated if we already responded to it somehow. As for the Rewards page, it pulls rewards data from our database and lists all the rewards users could redeem their points for. You can click the "Redeem" button on any one of them and be directed to a checkout page then a confirmation page. I also made changes to the final look of the site, and detected and fixed some bugs.  
