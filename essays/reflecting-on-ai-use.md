@@ -10,6 +10,9 @@ labels:
   - Software Engineering
   - Skills Development
 ---
+<div class="text-center p-4">
+    <img width="600px" src="../img/ai.png" class="img-thumbnail" alt="'Artificial Intelligence illustration" >
+</div>
 
 ## I. Introduction
 You may consider Artificial Intelligence (AI) a product of Software Engineering. A causal relationship exists even where software engineers have developed AI. Except, now AI can also engineer solutions to common and complex software problems. In ICS 314, I made use of AI tools, specifically ChatGPT.
