@@ -8,6 +8,7 @@ published: true
 labels:
   - Bootstrap 5
   - UI Frameworks
+  - Web Development
 ---
 
 ## What are UI Frameworks?
