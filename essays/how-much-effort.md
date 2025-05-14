@@ -12,11 +12,9 @@ labels:
 ---
 
 <div class="text-left p-4">
-    <img width="400px" src="../img/effort-estimation.png" class="img-thumbnail" alt="programming illustration" >
+    <img width="400px" src="../img/quote4.jpg" class="img-thumbnail" alt="'all good things must come to an end' quote" >
 </div>
 <br>
-
-*All good things must come to an end.*
 
 This week marks the end of our month spent developing Campus Plate Mate, a website that reduces food waste by creating a space for students and the UH Mānoa community to share food items. 
 
