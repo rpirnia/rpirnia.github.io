@@ -8,6 +8,7 @@ published: true
 labels:
   - Stack Exchange
   - Stack Overflow
+  - Stack of Questions
 ---
 
 <div style="text-align: center;">
