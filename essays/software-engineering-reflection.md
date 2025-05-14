@@ -30,6 +30,5 @@ Unlike doctors or engineers, software engineers are not required to be licensed.
 
 There are many dilemmas out there that software engineers may face, and a question is posed of what is the best course of action to take that follows morality most closely. It is important that as software engineers we understand what we are contributing to with our code, and how it could help or hurt others. 
 
-
 ## Conclusion
 To conclude, I learned a lot about software engineering in this class. I really enjoyed the experience and sentiments I gained from attending lectures and completing assignments. Thanks for a fun ICS 314. 
