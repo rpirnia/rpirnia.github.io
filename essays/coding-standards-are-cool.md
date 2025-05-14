@@ -7,6 +7,8 @@ date: 2025-02-13
 published: true
 labels:
   - ESLint
+  - Error Checking
+  - Code Standards
 ---
 
 <img width="600px" text-align="center" class="img-thumbnail" src="../img/code_style.jpg">
