@@ -10,8 +10,8 @@ labels:
   - Coding Standards
   - Computing Ethics
 ---
-<div class="text-left p-4">
-    <img width="600px" src="../img/programming.jpg" class="img-thumbnail" alt="Programming Illustration" >
+<div class="text-center p-4">
+    <img width="1000px" src="../img/programming.jpg" class="img-thumbnail" alt="Programming Illustration" >
 </div>
 
 ## Introduction
