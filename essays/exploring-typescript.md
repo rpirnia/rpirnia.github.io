@@ -7,8 +7,8 @@ date: 2025-01-23
 published: true
 labels:
   - Software Engineering
-  - Typescript
-  - 
+  - TypeScript
+  - Coding Workouts
 ---
 
 I am new to Typescript, having primarily worked with languages like Java and C. As I begin to explore Typescript, I am excited to see how it builds on Javascript’s features like typing, syntax, and debugging. Compared to Java, TypeScript feels more flexible, especially since it allows optional types. 
