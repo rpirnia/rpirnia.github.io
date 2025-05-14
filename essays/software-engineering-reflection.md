@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Rules of Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-13
+date: 2025-05-13
 published: true
 labels:
   - Software Engineering
