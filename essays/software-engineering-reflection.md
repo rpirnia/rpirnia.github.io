@@ -10,6 +10,9 @@ labels:
   - Coding Standards
   - Computing Ethics
 ---
+<div class="text-left p-4">
+    <img width="600px" src="../img/programming.jpg" class="img-thumbnail" alt="Programming Illustration" >
+</div>
 
 ## Introduction
 In ICS 314 Software Engineering, I learned how to create web applications. However, ICS 314 is more than mastering HTML, CSS, Typescript, React, and other coding languages. It is about understanding fundamental software engineering concepts. So, without further ado, here are two key concepts that I resonate with. 
