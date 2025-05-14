@@ -7,6 +7,8 @@ date: 2025-02-15
 published: true
 labels:
   - Tech Minds Meetup
+  - PACE
+  - Alumni Advice
 ---
 
 
