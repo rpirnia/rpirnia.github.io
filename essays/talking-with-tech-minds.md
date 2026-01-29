@@ -18,9 +18,7 @@ I had a great experience at the Tech Minds Meetup hosted by the Pacific Asian Ce
 Kristian is a software engineer at [VolunteerAlly](https://www.volunteerally.org), a platform that helps volunteers find volunteering opportunities in Hawaiʻi. VolunteerAlly started as an idea for ICS 314: Software Engineering and has since become the ally organization it is today. When Kristian is not working, he enjoys spending time with friends and family or advancing his technical skills. 
 
 ## Brody Uehara
-Brody is a software engineer at [kWh Analytics](https://www.kwhanalytics.com), a startup that provides data-driven insurance for the renewable energy industry. Brody works remotely. He lives here, but the startup is based in San Francisco, California. A typical day consists of data systems work and team meetings. Here is a picture we took together (I promise he knew the photo was being taken, haha):
-
-<img src="../img/techmindsmeetup.png" width=450px>
+Brody is a software engineer at [kWh Analytics](https://www.kwhanalytics.com), a startup that provides data-driven insurance for the renewable energy industry. Brody works remotely. He lives here, but the startup is based in San Francisco, California. A typical day consists of data systems work and team meetings.
 
 ## I learned quite a lot!
 Both tech pros studied Computer Science (CS) at UH Mānoa. I am also a CS student at the same university, so our conversations were especially valuable.
